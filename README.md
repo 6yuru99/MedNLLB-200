@@ -20,7 +20,7 @@ pip install transformers
 
 ## Usage
 
-Here’s a simple example demonstrating how to use the **medical-nllb-200-zh2en** model for translation:
+Here’s a simple example demonstrating how to use the [**medical-nllb-200-zh2en**](https://huggingface.co/6yuru99/medical-nllb-200-zh2en/tree/main) model for translation:
 
 ```python
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
