@@ -51,4 +51,4 @@ Welcome contributions to improve this project! If you have suggestions or improv
 
 ## Contact
 
-For any inquiries or feedback, please contact the project maintainer at [6yuru99@gmail.com].
+For any inquiries or feedback, please contact the project maintainer.
